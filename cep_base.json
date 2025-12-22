@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "89200-000",
+    "cep_digits": "89200000",
+    "logradouro": "Rua Exemplo",
+    "bairro": "Centro",
+    "cidade": "Jaraguá do Sul",
+    "uf": "SC"
+  },
+  {
+    "cep": "89270-000",
+    "cep_digits": "89270000",
+    "logradouro": "Avenida Exemplo",
+    "bairro": "Centro",
+    "cidade": "Guaramirim",
+    "uf": "SC"
+  }
+]
